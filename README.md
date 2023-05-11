@@ -1,3 +1,8 @@
-# react-vite-pricing_page
+# Mantine + Vite template
 
-Just using this to learn about react and learn to make good front end
+Official [Mantine](https://mantine.dev/) + [Vite](https://vitejs.dev/) template.
+
+Links:
+
+- [Mantine documentation](https://mantine.dev/)
+- [Vite documentation](https://vitejs.dev/)
